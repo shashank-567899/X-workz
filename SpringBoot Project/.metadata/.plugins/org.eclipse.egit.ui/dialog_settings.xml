@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="2"/>
+	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\siddh\git\registration-login-spring-boot-security-thymeleaf-hibernate\.git"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Java-Techie-jt/file-storage-service.git"/>
+		<item value="https://github.com/Java-Techie-jt/spring-boot-security-3.0.git"/>
+		<item value="ssh://snipe_backend_let@bitbucket.org/gdmsnipe/let_backend.git"/>
+		<item value="https://github.com/RameshMF/java-8-tutorial.git"/>
+		<item value="https://github.com/Java-Techie-jt/annotations-cheatsheet.git"/>
+		<item value="https://github.com/Java-Techie-jt/spring-security-3.1.1-changes.git"/>
+		<item value="https://github.com/aliyusahaboadam/Registration-and-Login-Application.git"/>
+		<item value="https://github.com/JavatechWorld/ForgotPassword.git"/>
+		<item value="https://github.com/RameshMF/registration-login-spring-boot-security-thymeleaf-hibernate.git"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+</section>

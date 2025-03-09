@@ -1,0 +1,13 @@
+package com.java.config;
+
+import org.springframework.web.bind.annotation.PostMapping;
+
+public class Controller {
+	
+	@PostMapping("/student/add")
+	public String addStudent()
+	{
+	
+	}
+
+}
